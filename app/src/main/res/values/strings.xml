@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TiaraMovie</string>
+    <string name="app_title_movie">Movie Yang Sedang Tayang</string>
+    <string name="app_title_tvshow">Acara Tv Hari Ini</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_highlight">Image Highlight</string>
+    <string name="lb_description">Description</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="tab_title_movie">MOVIE</string>
+    <string name="tab_title_tvshow">TV SHOW</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite">Favorite</string>
+    <string name="empty_state_title_no_favorite_item">No favorites yet</string>
+    <string name="empty_state_desc_no_favorite_item_movie">You don\'t have a list of favorite movies</string>
+    <string name="empty_state_desc_no_favorite_item_tvshow">You don\'t have a list of favorite tv show</string>
+    <string name="app_title">MOVIE CATALOG</string>
+    <string name="default_desc">No story description</string>
+    <string name="menu_az">A - Z</string>
+    <string name="menu_za">Z - A</string>
+    <string name="menu_random">Random</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data">Tiara\n322323432432432423</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+
+    <!-- You can go on with normal_300, normal_325, etc. -->
+    <!-- You can also go with large_xxx having 'larger' steps -->
+
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="dp_150">150dp</dimen>
+    <dimen name="sp_24">24sp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_0">0dp</dimen>
+</resources>
